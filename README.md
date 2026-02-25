@@ -78,7 +78,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 ---
 
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 ✨ “Sempre aprendendo, sempre evoluindo.”
 
 </div>
