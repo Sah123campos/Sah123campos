@@ -61,15 +61,6 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 | Landing Pages | Páginas profissionais responsivas | ✅ Concluído |
 | Full-Stack Apps | Aplicações front-end + back-end | 🔄 Em andamento |
 | API RESTful | APIs com Spring Security + JWT | 🟡 Planejado |
-
----
-
-## Gráfico de Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sah123campos&theme=dracula"/>
-</p>
-
 ---
 
 ## Contato
