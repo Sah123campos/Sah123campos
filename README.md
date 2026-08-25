@@ -63,6 +63,8 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sah123campos&show_icons=true&theme=dracula&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sah123campos&layout=compact&theme=dracula&bg_color=0D1117"/>
 
+<br><br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sah123campos&theme=dracula&background=0D1117"/>
 
 </div>
@@ -79,10 +81,16 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 
 ## 📌 Projetos em Destaque
 
-🔹 **Sistema de Gerenciamento de Tarefas** - Spring Boot + Thymeleaf  
-🔹 **Landing Pages profissionais** - HTML, CSS, JavaScript  
-🔹 **Aplicações Full-Stack** - Integrando front-end e back-end  
-🔹 **API RESTful** - Spring Boot + Spring Security + JWT  
+<div align="center">
+
+| 🚀 Projeto | 📝 Descrição | 🔗 Status |
+|:---:|:---|:---:|
+| **Task Manager** | Sistema de gerenciamento de tarefas com Spring Boot + Thymeleaf | 🟢 Em desenvolvimento |
+| **Landing Pages** | Páginas profissionais responsivas e otimizadas | ✅ Concluído |
+| **Full-Stack Apps** | Aplicações completas front-end + back-end | 🔄 Em andamento |
+| **API RESTful** | APIs robustas com Spring Security + JWT | 🟡 Planejado |
+
+</div>
 
 ---
 
@@ -99,23 +107,23 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 <div align="center">
 
 <a href="mailto:samuspcampos@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samuel-santana-7623402b8/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/5519989507788">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/_samusantana_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sah123campos">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -125,7 +133,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 ## 📈 Visitantes
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sah123campos&color=blue&style=flat&label=Visualizações+do+Perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Sah123campos&color=blue&style=flat-square&label=Visualizações+do+Perfil"/>
 </div>
 
 ---
