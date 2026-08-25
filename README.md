@@ -48,11 +48,6 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu√
 ## Estat√≠sticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sah123campos&show_icons=true&theme=dracula"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sah123campos&layout=compact&theme=dracula"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sah123campos&theme=dracula"/>
 </p>
 
