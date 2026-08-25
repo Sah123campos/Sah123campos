@@ -53,14 +53,6 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 
 ---
 
-## Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sah123campos&theme=dracula&row=2&column=3"/>
-</p>
-
----
-
 ## Projetos em Destaque
 
 | Projeto | Descrição | Status |
