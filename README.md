@@ -60,12 +60,12 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sah123campos&show_icons=true&theme=dracula&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sah123campos&layout=compact&theme=dracula&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sah123campos&show_icons=true&theme=dracula&bg_color=0D1117&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sah123campos&layout=compact&theme=dracula&bg_color=0D1117&locale=pt-br"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sah123campos&theme=dracula&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sah123campos&theme=dracula&background=0D1117&border=FF6B6B&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&locale=pt_BR"/>
 
 </div>
 
@@ -74,7 +74,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sah123campos&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sah123campos&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&locale=pt-br"/>
 </div>
 
 ---
@@ -85,9 +85,9 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 
 | 🚀 Projeto | 📝 Descrição | 🔗 Status |
 |:---:|:---|:---:|
-| **Task Manager** | Sistema de gerenciamento de tarefas com Spring Boot + Thymeleaf | 🟢 Em desenvolvimento |
+| **Gerenciador de Tarefas** | Sistema de gerenciamento de tarefas com Spring Boot + Thymeleaf | 🟢 Em desenvolvimento |
 | **Landing Pages** | Páginas profissionais responsivas e otimizadas | ✅ Concluído |
-| **Full-Stack Apps** | Aplicações completas front-end + back-end | 🔄 Em andamento |
+| **Aplicativos Full-Stack** | Aplicações completas front-end + back-end | 🔄 Em andamento |
 | **API RESTful** | APIs robustas com Spring Security + JWT | 🟡 Planejado |
 
 </div>
@@ -97,7 +97,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 ## 📊 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sah123campos&theme=dracula&bg_color=0D1117&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sah123campos&theme=dracula&bg_color=0D1117&hide_border=true&area=true&locale=pt-br"/>
 </div>
 
 ---
