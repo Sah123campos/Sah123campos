@@ -17,7 +17,7 @@
 
 Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar soluções eficientes, organizadas e escaláveis.
 
-📌 **Atualmente:**
+**Atualmente:**
 - 🌱 Aprendendo Spring Security e Microservices
 - 💼 Buscando oportunidades como Desenvolvedor Java
 - 🚀 Criando projetos para fortalecer meu portfólio
@@ -29,8 +29,8 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 <div align="center">
 
 ### 🖥️ Back-end
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
@@ -74,7 +74,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sah123campos&theme=dracula&row=2&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sah123campos&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 ---
@@ -107,7 +107,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 <div align="center">
 
 <a href="mailto:samuspcampos@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samuel-santana-7623402b8/">
@@ -139,8 +139,6 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
 ### ✨ “Sempre aprendendo, sempre evoluindo.”
 
