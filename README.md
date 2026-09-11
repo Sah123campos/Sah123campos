@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Samuel Santana
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Focado+em+Java+e+Spring+Boot;Trabalhando+na+UFSCar+e+DeOTIC;Sempre+aprendendo+e+evoluindo;Bem-vindo+ao+meu+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Focado+em+Java+e+Spring+Boot;Trabalhando+na+UFSCar+-+DeOTIC;Sempre+aprendendo+e+evoluindo;Bem-vindo+ao+meu+GitHub!"/>
 </p>
 
 ---
@@ -16,8 +16,7 @@
 Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar soluções eficientes, organizadas e escaláveis.
 
 **Atualmente:**
-- 🏢 Trabalhando na **UFSCar** (Universidade Federal de São Carlos)
-- 🏢 Atuando na **DeOTIC** (Departamento de Organização e Tratamento da Informação e Conhecimento)
+- 🏢 Trabalhando na **UFSCar** (Universidade Federal de São Carlos) — atuando na área da **DeOTIC** (Departamento de Organização e Tratamento da Informação e Conhecimento)
 - 🌱 Aprendendo Spring Security, Microsserviços e AWS
 - 💼 Buscando oportunidades como Desenvolvedor Java
 - 🚀 Criando projetos para fortalecer meu portfólio
@@ -26,10 +25,9 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 
 ## Experiência Profissional
 
-| Instituição | Cargo / Área | Descrição |
+| Instituição | Setor / Área | Descrição |
 |-------------|--------------|-----------|
-| **UFSCar** | Desenvolvedor / Suporte Técnico | Atuação na Universidade Federal de São Carlos |
-| **DeOTIC** | Desenvolvedor | Departamento de Organização e Tratamento da Informação e Conhecimento |
+| **UFSCar** | DeOTIC | Desenvolvedor na Universidade Federal de São Carlos, atuando no Departamento de Organização e Tratamento da Informação e Conhecimento |
 
 ---
 
