@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Samuel Santana
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Focado+em+Java+e+Spring+Boot;Sempre+aprendendo+e+evoluindo;Bem-vindo+ao+meu+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Focado+em+Java+e+Spring+Boot;Trabalhando+na+UFSCar+e+DeOTIC;Sempre+aprendendo+e+evoluindo;Bem-vindo+ao+meu+GitHub!"/>
 </p>
 
 ---
@@ -16,36 +16,56 @@
 Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar soluções eficientes, organizadas e escaláveis.
 
 **Atualmente:**
-- 🌱 Aprendendo Spring Security e Microservices
+- 🏢 Trabalhando na **UFSCar** (Universidade Federal de São Carlos)
+- 🏢 Atuando na **DeOTIC** (Departamento de Organização e Tratamento da Informação e Conhecimento)
+- 🌱 Aprendendo Spring Security, Microsserviços e AWS
 - 💼 Buscando oportunidades como Desenvolvedor Java
 - 🚀 Criando projetos para fortalecer meu portfólio
+
+---
+
+## Experiência Profissional
+
+| Instituição | Cargo / Área | Descrição |
+|-------------|--------------|-----------|
+| **UFSCar** | Desenvolvedor / Suporte Técnico | Atuação na Universidade Federal de São Carlos |
+| **DeOTIC** | Desenvolvedor | Departamento de Organização e Tratamento da Informação e Conhecimento |
 
 ---
 
 ## Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
 ## Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sah123campos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sah123campos&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sah123campos&theme=dracula"/>
@@ -61,6 +81,8 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 | Landing Pages | Páginas profissionais responsivas | ✅ Concluído |
 | Full-Stack Apps | Aplicações front-end + back-end | 🔄 Em andamento |
 | API RESTful | APIs com Spring Security + JWT | 🟡 Planejado |
+| Microsserviços | Arquitetura com Spring Cloud | 🔵 Estudando |
+
 ---
 
 ## Contato
