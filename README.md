@@ -68,7 +68,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu√
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sah123campos&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com/?user=Sah123campos&theme=dracula&hide_current_streak=true"/>
 </p>
 
 ---
