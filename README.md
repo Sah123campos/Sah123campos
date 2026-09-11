@@ -63,6 +63,11 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu√
 ## Estat√≠sticas
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sah123campos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sah123campos&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sah123campos&theme=dracula&hide_current_streak=true"/>
 </p>
 
@@ -83,21 +88,11 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu√
 ## Contato
 
 <p align="center">
-  <a href="mailto:samuspcampos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-santana-7623402b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5519989507788">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_samusantana_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Sah123campos">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:samuspcampos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/samuel-santana-7623402b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://wa.me/5519989507788"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
+  <a href="https://www.instagram.com/_samusantana_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Sah123campos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
