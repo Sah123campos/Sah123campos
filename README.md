@@ -98,7 +98,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 ## Visitantes
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sah123campos&color=blue&style=flat-square&label=Visualizações"/>
+  <img src="https://eager-goat-7716.sah123campos.deno.net/?username=Sah123campos&label=VISUALIZAÇÕES"/>
 </p>
 
 ---
