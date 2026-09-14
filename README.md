@@ -60,10 +60,11 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 ## Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sah123campos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sah123campos&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://img.shields.io/github/followers/Sah123campos?label=Seguidores&style=for-the-badge&logo=github&color=00F7FF"/>
+  <img src="https://img.shields.io/github/stars/Sah123campos?label=Estrelas&style=for-the-badge&logo=github&color=00F7FF"/>
+  <img src="https://img.shields.io/github/last-commit/Sah123campos/Sah123campos?label=Último%20Commit&style=for-the-badge&logo=github&color=00F7FF"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Sah123campos?label=Commits%2FMês&style=for-the-badge&logo=github&color=00F7FF"/>
 </p>
-
 ---
 
 ## Projetos em Destaque
