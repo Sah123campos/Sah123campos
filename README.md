@@ -56,17 +56,6 @@ Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando criar solu�
 </p>
 
 ---
-
-## Estatísticas
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Sah123campos?label=Seguidores&style=for-the-badge&logo=github&color=00F7FF"/>
-  <img src="https://img.shields.io/github/stars/Sah123campos?label=Estrelas&style=for-the-badge&logo=github&color=00F7FF"/>
-  <img src="https://img.shields.io/github/last-commit/Sah123campos/Sah123campos?label=Último%20Commit&style=for-the-badge&logo=github&color=00F7FF"/>
-  <img src="https://img.shields.io/github/commit-activity/m/Sah123campos?label=Commits%2FMês&style=for-the-badge&logo=github&color=00F7FF"/>
-</p>
----
-
 ## Projetos em Destaque
 
 | Projeto | Descrição | Status |
