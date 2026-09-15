@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou Samuel Santana
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:34495e&height=200&section=header&text=Samuel%20Santana&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Focado+em+Java+e+Spring+Boot;Trabalhando+na+UFSCar+-+DeOTIC;Sempre+aprendendo+e+evoluindo;Bem-vindo+ao+meu+GitHub!"/>
