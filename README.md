@@ -318,10 +318,11 @@ Todos rodam no navegador, no computador e no celular, sem instalar nada. Arte de
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://sah123campos.github.io/cramer/"><img src="assets/projetos/cramer.webp" alt="Calculadora de Cramer"/></a>
-      <h3>🧮 Calculadora de Cramer</h3>
-      Resolve sistemas lineares 2×2, 3×3 e 4×4 mostrando cada determinante.<br><br>
-      <a href="https://sah123campos.github.io/cramer/"><b>▶ Usar</b></a> · <a href="https://github.com/Sah123campos/cramer">Código</a>
+      <a href="https://sah123campos.github.io/cramer/"><img src="assets/projetos/cramer.webp" alt="Cramer: três planos, um ponto"/></a>
+      <h3>🧮 Cramer: três planos, um ponto</h3>
+      A regra de Cramer em 3D: a rolagem mostra os planos se cruzando e o determinante virando volume. No fim, um laboratório desenha funções e superfícies e resolve sistemas 2×2 a 4×4, matrizes, cônicas e integrais, sempre com o passo a passo e frações exatas.<br><br>
+      <code>Three.js</code> <code>GSAP</code> <code>JavaScript</code><br><br>
+      <a href="https://sah123campos.github.io/cramer/"><b>▶ Abrir</b></a> · <a href="https://github.com/Sah123campos/cramer">Código</a>
     </td>
     <td width="50%" valign="top">
       <h3>🥽 Manual do Torno CNC em RA</h3>
