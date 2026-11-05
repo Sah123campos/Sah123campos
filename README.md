@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://sah123campos.github.io/Portfolio_do_Samuel/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8BD45A&center=true&vCenter=true&width=640&lines=Back-end+com+Java+e+Spring+Boot;Desenvolvedor+na+UFSCar+%E2%80%A2+DeOTIC;Experi%C3%AAncias+3D+com+Three.js+e+WebGL;Jogos+web+em+pixel+art;Sempre+aprendendo%2C+sempre+evoluindo" alt="Back-end com Java e Spring Boot · Desenvolvedor na UFSCar · Experiências 3D com Three.js"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8BD45A&center=true&vCenter=true&width=640&lines=Back-end+com+Java+e+Spring+Boot;Desenvolvedor+na+UFSCar+%E2%80%A2+DeOTIC;Experi%C3%AAncias+3D+com+Three.js+e+WebGL;Sempre+aprendendo%2C+sempre+evoluindo" alt="Back-end com Java e Spring Boot · Desenvolvedor na UFSCar · Experiências 3D com Three.js"/>
   </a>
 </p>
 
@@ -55,7 +55,7 @@ public class SamuelSantana implements DesenvolvedorFullStack {
 | 🎓 | **SENAI** | Técnico em Análise e Desenvolvimento de Sistemas: lógica, orientação a objetos, banco de dados e arquitetura de sistemas |
 | **2025** | **Sites para clientes** | Imobiliária, construtora e empresa de engenharia, do layout à publicação |
 | **2026** | **Experiências 3D** | Sistema Solar, Núcleo Meridiano e Aura Motors, com Three.js, shaders e animação guiada pela rolagem |
-| **2026** | **UFSCar · DeOTIC** | Desenvolvedor na Universidade Federal de São Carlos, na Secretaria Geral de Informática, atuando no Departamento de Organização e Tratamento da Informação e Conhecimento |
+| **2026** | **UFSCar · DeOTIC** | Desenvolvedor na Universidade Federal de São Carlos, na Secretaria Geral de Informática, atuando no DeOTIC |
 | **Agora** | **Graduação + back-end Java** | Cursando Análise e Desenvolvimento de Sistemas e construindo projetos com Spring Boot |
 
 <!-- ============================== STACK ============================== -->
@@ -120,22 +120,6 @@ public class SamuelSantana implements DesenvolvedorFullStack {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://sah123campos.github.io/misterio-dos-sinais/"><img src="assets/projetos/misterio-dos-sinais.webp" alt="O Mistério dos Sinais"/></a>
-      <h3>🔍 O Mistério dos Sinais</h3>
-      RPG de investigação em pixel art pelos sinais do Evangelho de João: Caná, Poço de Jacó e Betesda. Motor próprio em Canvas, sem engine, e instalável no celular.<br><br>
-      <code>JavaScript</code> <code>Canvas</code> <code>PWA</code><br><br>
-      <a href="https://sah123campos.github.io/misterio-dos-sinais/"><b>▶ Jogar</b></a> · <a href="https://github.com/Sah123campos/misterio-dos-sinais">Código</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://sah123campos.github.io/enigma-do-consolador/"><img src="assets/projetos/enigma-do-consolador.webp" alt="O Enigma do Consolador"/></a>
-      <h3>🗝️ O Enigma do Consolador</h3>
-      Jogo de exploração e enigmas para equipes: três selos e pistas escondidas no cenário. As fases são criptografadas no navegador e só abrem com a resposta certa.<br><br>
-      <code>JavaScript</code> <code>Canvas</code> <code>Web Crypto</code><br><br>
-      <a href="https://sah123campos.github.io/enigma-do-consolador/"><b>▶ Jogar</b></a> · <a href="https://github.com/Sah123campos/enigma-do-consolador">Código</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://sah123campos.github.io/Loja-de-gamers/"><img src="assets/projetos/nucleo-meridiano.webp" alt="Núcleo Meridiano"/></a>
       <h3>🖥️ Núcleo Meridiano</h3>
       Jornada 3D de uma loja de hardware gamer: a rolagem leva a câmera da fábrica de PCs ao armazém e termina no setup do cliente, em primeira pessoa.<br><br>
@@ -194,7 +178,6 @@ public class SamuelSantana implements DesenvolvedorFullStack {
 
 - [x] Landing pages e sites responsivos para clientes
 - [x] Experiências 3D com Three.js, shaders e animação na rolagem
-- [x] Jogos web em pixel art com motor próprio
 - [ ] **Gerenciador de Tarefas** com Spring Boot e Thymeleaf · *em desenvolvimento*
 - [ ] **API RESTful** com Spring Security e JWT · *planejado*
 - [ ] **Microsserviços** com Spring Cloud · *estudando*
